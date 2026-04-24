@@ -1,6 +1,5 @@
 ![alt text goes here](https://github.com/M-Alshehri/learn-cicd-starter/actions/workflows/ci/badge.svg)
 
-)
 
 # learn-cicd-starter (Notely)
 
